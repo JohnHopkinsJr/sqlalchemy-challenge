@@ -1,6 +1,6 @@
-# John Hopkins 4/2021
+## John Hopkins 4/2021
 
-# SQLAlchemy Homework - Surfs Up!
+## SQLAlchemy Homework - Surfs Up!
 
 ### Before You Begin
 
